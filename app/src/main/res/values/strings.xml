@@ -38,4 +38,9 @@
     <string name="similar_movies">Similar Movies</string>
     <string name="similar_television_shows">Similar Television Shows</string>
 
+
+    <!--api_key  HERE -->
+    <string name="api_key">add the api here</string>
+
+
 </resources>
